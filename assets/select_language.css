@@ -1,0 +1,30 @@
+:root {
+  --fundo: #0d1117;
+  --borda: #06d6a0ff;
+  --botao: #1b4965ff;
+  --botao-hover: #2c6a96;
+  --texto: #cae9ffff;
+  --texto-destaque: #5fa8d3ff;
+}
+
+body {
+  background-color: var(--fundo);
+  color: var(--texto);
+}
+
+.sal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.sal-div a {
+  text-decoration: none;
+  color: var(--texto);
+  transition: all 0.3s;
+}
+.sal-div a:hover {
+  color: var(--texto-destaque);
+}
