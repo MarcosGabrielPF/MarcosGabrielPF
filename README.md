@@ -1,5 +1,5 @@
 <header align="center" style="text-align: center;">
-  <img src="Github Logo.png" alt="MG" width="100" style="border-radius: 100px;">
+  <img src="Github Profile Picture.png" alt="MG" width="100" style="border-radius: 100px;">
   <h1>Marcos Gabriel</h1>
 </header>
 
